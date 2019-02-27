@@ -4,8 +4,9 @@
     "module": "commonjs",
     "strict": true,
     "jsx": "react",
-    "rootDir": "./src",
     "experimentalDecorators": true,
-    "lib": ["dom", "es2015"]
-  }
+    "lib": ["dom", "es2015"],
+    "rootDirs": ["src", "stories"]
+  },
+  "exclude": ["node_modules"]
 }

@@ -7,3 +7,7 @@ yarn add @types/react @types/react-dom @types/react-router-dom --dev
 yarn add parcel-bundler
 yarn add styled-components @types/styled-components typescript --dev
 ```
+
+### typescript + storybook
+
+https://storybook.js.org/configurations/typescript-config/
